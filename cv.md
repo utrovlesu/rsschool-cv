@@ -1,6 +1,6 @@
-#Daria Reveruk#
+# Daria Reveruk #
 
-##Contact me##
+## Contact me ##
 
 Telegram: @dasha_tigress
 Discord: Lisichka (@utrovlesu)
