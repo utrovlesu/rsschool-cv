@@ -17,3 +17,14 @@ My goal is  being able to create websites with complicated funkcional using Java
 * HTML
 * CSS
 * A little bit PHP
+
+## Code examples ##
+
+This code was as a solution for registrating on codewars.com
+
+```
+function multiply($a, $b) {
+  $a * $b;
+  return( $a * $b);
+}
+```
