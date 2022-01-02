@@ -37,3 +37,13 @@ function multiply($a, $b) {
 4. [Carting](https://kart-house.ru/)
 
 and etc.
+
+## Education ##
+
+SPbGUT them. Bonch-Bruevich
+
+## English language ##
+
+Level B2
+
+I comunicate a lot with Americans during 2 years.
