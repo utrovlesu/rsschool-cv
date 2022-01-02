@@ -28,3 +28,12 @@ function multiply($a, $b) {
   return( $a * $b);
 }
 ```
+
+## Developed websites ##
+
+1. [SSK "Russkoe oruzhie"](https://sskrusgun.ru/)
+2. [Craft Metal](https://craft-metall-airsoft.com/)
+3. [Verification of water metering devices](https://gorvoda78.ru/)
+4. [Carting](https://kart-house.ru/)
+
+and etc.
