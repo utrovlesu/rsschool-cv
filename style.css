@@ -47,12 +47,13 @@ html {
  footer{
 	 height: 50px;
 	 background-color: rgb(46, 43, 43);
+	 padding: 15px;
  }
  .top{
 	justify-content: space-between;
  }
 
- img{
+.section2 img{
 	width: 430px;
  }
 
@@ -96,4 +97,18 @@ pre {
 
 .nav-item:hover{
 background:#faebd7; ;
+}
+
+footer img{
+	width: 140px;
+	margin-left: 30px;
+}
+
+footer .container{
+	justify-content: center;
+}
+.contacts{
+	list-style-type: none;
+	padding-left: 0px;
+    line-height: 30px;
 }
