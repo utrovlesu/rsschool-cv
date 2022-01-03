@@ -1,3 +1,4 @@
+https://utrovlesu.github.io/rsschool-cv/
 https://utrovlesu.github.io/rsschool-cv/cv
 
 ## Welcome to GitHub Pages
