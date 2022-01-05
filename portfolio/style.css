@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth; 
+ }
+
 body {
 	background: #000000;
 }
@@ -6,4 +10,16 @@ body {
 	width: 1440px;
 	margin: 0 auto;
 	padding: 0 20px;
+ }
+
+ .nav-list {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+ }
+
+ .nav-link {
+	padding: 0 20px;
+	line-height: 50px;
+	transition: .3s;
  }
