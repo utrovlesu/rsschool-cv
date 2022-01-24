@@ -10,11 +10,14 @@ body {
 }
 
 .container {
-	width: 1440px;
+	max-width: 1440px;
 	margin: 0 auto;
 	padding: 0 20px;
  }
-
+.container_h{
+	max-width: 1440px;
+	margin: 0 auto;
+}
  .nav-list {
 	list-style: none;
 	display: flex;
@@ -31,12 +34,14 @@ body {
 	background-repeat: no-repeat;
 	background-position: center -0px;
 	height: 90px;
+	display: flex;
+    justify-content: space-between;
  }
  .hero-container {
 	background-image: url('./assets/img/bg.jpg');
 	background-position: center -90px;
 	background-repeat: no-repeat;
-	height: 910px;
+	height: 820px;
 	position: relative;
 	display: flex;
  }
@@ -49,7 +54,7 @@ right: 59.72%;
 top: 160px;
 }
 .hero-content p, .btn{
-	font-family: 'Inter', sans-serif;
+	
 	font-size: 20px;
 	line-height: 40px;
 	
@@ -70,4 +75,5 @@ left: 0%;
 right: 56%;
 top: 275px;
 background: #BDAE82;
+font-family: 'Inter', sans-serif;
 }
