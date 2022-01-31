@@ -22,13 +22,27 @@ body {
 	list-style: none;
 	display: flex;
 	flex-direction: row;
+	margin-top: 20px;
  }
 
  .nav-link {
-	padding: 0 20px;
+	padding: 0 15px;
 	line-height: 50px;
 	transition: .3s;
+	font-size: 20px;
+	line-height: 50px;
  }
+
+ .nav-list li:last-child a{
+	padding-right: 31px;
+ }
+
+.lang a{
+	font-size: 20px;
+	line-height: 50px;
+	font-weight: 700;
+}
+
  .header-container {
 	background: url('./assets/img/bg.jpg');
 	background-repeat: no-repeat;
@@ -76,4 +90,20 @@ right: 56%;
 top: 275px;
 background: #BDAE82;
 font-family: 'Inter', sans-serif;
+}
+
+.logo img{
+	margin: 20px 0 0 20px;
+}
+.lang {
+	margin: 20px 20px 0 0;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.menu{
+	margin-left: auto;
 }
